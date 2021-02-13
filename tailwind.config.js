@@ -6,6 +6,9 @@ module.exports = {
       lineHeight: {
         ex70: "4.375rem",
       },
+      margin: {
+        "-30x": "-30%",
+      },
     },
   },
   variants: {
